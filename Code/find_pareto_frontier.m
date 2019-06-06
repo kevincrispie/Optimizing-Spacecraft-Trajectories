@@ -1,4 +1,5 @@
 function [membership, member_value]=find_pareto_frontier(input)
+%function determines members of a pareto frontier
 out=[];
 data=unique(input,'rows');
 for i = 1:size(data,1)

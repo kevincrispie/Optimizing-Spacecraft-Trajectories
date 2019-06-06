@@ -1,3 +1,6 @@
+%finds the optimal trajectory for minimum position error and fuel usage
+%according to a combined cost function
+
 clear all
 close all
 
