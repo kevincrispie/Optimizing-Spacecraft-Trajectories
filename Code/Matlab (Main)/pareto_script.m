@@ -1,6 +1,9 @@
 clear all
 close all
+%this is mostly just a plotting sandbox script. find_pareto_frontier and
+%other optimization functions are where analysis and simulations happen
 
+%loading various files, comment/uncomment as necessary
 load Minfuel.mat
 load Mintime.mat
 load Mintime2.mat
